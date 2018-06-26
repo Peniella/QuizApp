@@ -1,2 +1,2 @@
 # QuizApp
-QuizApp repository on github
+QuizApp is a basic android educational quiz, that tests users accuracy.
